@@ -114,3 +114,119 @@ ai
 体检
 养老
 +机器人
+
+silicone
+PDMS
+multi-material
+elastic
+flexible
+polyurethane
+porous
+sensor
+AI
+artificial intelligence
++3D printing
+
+flexible
+elastic
+stretchable
+skin
+implant
+porous
++sensor
+
+cell stretching device
+
+PDMS
+chip
+device
+applications
++microfluidics
+
+medical model
+phantom
+anatomical model
+teaching
+training
+testing
+regulations
+standards
+innovation
+registration
+funding
+market launch
+clinical
++vascular intervention
+
+medical model
+phantom
+anatomical model
+teaching
+training
+testing
+regulations
+standards
+innovation
+registration
+funding
+market launch
+clinical
++endoscopy
+
+medical model
+phantom
+anatomical model
+teaching
+training
+testing
+regulations
+standards
+innovation
+registration
+funding
+market launch
+clinical
++ultrasound
+
+medical model
+phantom
+anatomical model
+teaching
+training
+testing
+regulations
+standards
+innovation
+registration
+funding
+market launch
+clinical
++minimally invasive surgery
+
+AI
+artificial intelligence
+3D printing
+silicone
+hydrogel
+intelligent
+virtual–physical integration
++medical models
+
+humanoid
+skin
+face
+AI
+artificial intelligence
+3D printing
+facial expression
+adult
+soft-body
+bionic
+flexible
+silicone
+hydrogel
+medical
+rehabilitation
+health check
+eldercare
++robots
